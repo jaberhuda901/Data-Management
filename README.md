@@ -17,7 +17,7 @@ RGB_FILTER_T42 Version: 2.07
 
 ## Description:
 
--The RGB_FILTER_T42 is a photo filtering application that has a built in user interface to allow the user to input 
+- The RGB_FILTER_T42 is a photo filtering application that has a built in user interface to allow the user to input 
  a chosen picture and apply multiple filters to it, afterwhich the picture can be saved.
 
 - The project is made up of files:
