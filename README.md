@@ -48,7 +48,7 @@ These are the only two requirments for installing the software.
 use the command Prompt to run the program."cmd" on windows search would bring the command Prompt 
 
 ```Bash
-> T042_interactive_ui.py
+T042_interactive_ui.py
 ```
 
 When prompted enter the first capital letter in this case L)oad image the input wil be "L".
