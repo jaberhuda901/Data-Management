@@ -4,7 +4,7 @@ It is a python app design to filter colours of a photo using the CLI as the user
 
 RGB_FILTER_T42 Version: 2.07 2/23/2021
 
-##Contact Information:
+## Contact Information:
 The Project can be reached at:
 
 Voice: 613 462 1450
@@ -12,10 +12,10 @@ Email: jaberulhuda@cmail.carleton.ca
 
 Date: 2/23/2021
 
-##Software’s Name and version:
+## Software’s Name and version:
 RGB_FILTER_T42 Version: 2.07
 
-#Description:
+# Description:
 
 -The RGB_FILTER_T42 is a photo filtering application that has a built in user interface to allow the user to input 
  a chosen picture and apply multiple filters to it, afterwhich the picture can be saved.
@@ -29,7 +29,7 @@ RGB_FILTER_T42 Version: 2.07
   T042_batch_ui.py
 
 
-#Installation:
+# Installation:
 
 In order to install the RGB_FILTER_T42, you must have all components of the program in one file location. 
 You must also download and install numpy, a python extension. This will allow the program to do the required
@@ -43,8 +43,8 @@ pip install pillow
 
 These are the only two requirments for installing the software.
 
-#Usage:
-------
+# Usage:
+
 use the command Prompt to run the program."cmd" on windows search would bring the command Prompt 
 
 ```Bash
@@ -56,7 +56,7 @@ The program must first Load an image inorder to perform the filter commands.
 Otherwise "No image loaded" will be shown.
 
 
-#credits:
+# credits:
 
 ARYAN MATHUR 101211143
 
@@ -66,7 +66,7 @@ JORDAN GEILS 101191770
 
 
 
-License:
+# License:
 --------
 
 MIT License
